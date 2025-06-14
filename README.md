@@ -87,6 +87,6 @@ http://localhost:5173
 ## 👩‍💻 Built By
 
 Made with ❤️ by Yukti Sahu  
-📸 Follow me on [Instagram](https://instagram.com/your-id) | [LinkedIn](https://linkedin.com/in/your-id)
+📸 Follow me on [X](https://x.com/YuktiSahu234) | [LinkedIn](https://www.linkedin.com/in/yukti-sahu2004/)
 
 ---
