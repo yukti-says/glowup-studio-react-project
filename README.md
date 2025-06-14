@@ -6,7 +6,7 @@ Welcome to the official repository of GlowUp Studio – a sleek and elegant fron
 
 ## ✨ Live Demo
 
-🔗 [Visit GlowUp Studio Live](https://your-deployment-url.vercel.app)
+🔗 [Visit GlowUp Studio Live](https://glowup-studio-react-project.vercel.app/)
 
 ---
 
@@ -60,7 +60,7 @@ glowup-studio/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/glowup-studio.git
+git clonehttps://github.com/yukti-says/glowup-studio-react-project
 cd glowup-studio
 ```
 
@@ -80,84 +80,6 @@ npm run dev
 
 ```
 http://localhost:5173
-```
-
----
-
-## 🧾 Deployment (with Vercel)
-
-1. Push your code to GitHub
-
-2. Go to: https://vercel.com
-
-3. Click “New Project”
-
-4. Import your GitHub repository
-
-5. Vercel will auto-detect Vite + React framework
-
-6. Click “Deploy” 🎉
-
-You’ll get a live production URL like:
-
-👉 https://glowup-studio.vercel.app
-
----
-
-## 📄 .gitignore
-
-```gitignore
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-
-# testing
-/coverage
-
-# production
-/dist
-
-# misc
-.DS_Store
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# vite
-.vite
-
-# system
-Thumbs.db
-```
-
----
-
-## 📜 LICENSE (MIT)
-
-```
-MIT License
-
-Copyright (c) 2025 Yukti Sahu
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
 ---
