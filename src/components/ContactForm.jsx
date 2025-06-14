@@ -45,7 +45,7 @@ const ContactForm = () => {
   <PhoneIcon /> <span>+91 98765 43210</span>
 </div>
 <div className="flex items-center gap-3 text-pink-700">
-  <MapPinIcon /> <span>123 Glow Street, Mumbai</span>
+  <MapPinIcon /> <span>123 Vrindavan Street, Bhopal</span>
 </div>
 
           </div>
